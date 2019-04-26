@@ -10,7 +10,7 @@ body {
 }
 
 main h1 {
-    font-size: 280%;
+    font-size: 60px;
     background-color: #851944; 
     color: #FFF;
     text-align: center; 
@@ -26,14 +26,20 @@ main a {
 main div {
     width: 720px;
     margin: auto;
+    padding: 30px 0;
+}
+
+main footer {
+    text-align: left;
 }
 
 h2 {
-    font-size: 40px;
+    font-size: 30px;
 }
 
 p {
     text-align: justify;
+    margin: 20px 0;
 }
 
 blockquote {
@@ -42,7 +48,7 @@ blockquote {
     border: 10px solid #C2CCCA;
     width: 250px;
     box-sizing: border-box;
-    margin: 0;    
+    margin: 20px 40px;    
     text-align: right;
 }
 
@@ -53,18 +59,28 @@ aside {
     text-align: center;
 }
 
+aside h1 {
+    font-size: 30px;
+    margin-bottom: 25px;
+}
+
 aside a {
     color: inherit;
     font-family: "Open Sans Condensed", sans-serif;
     text-decoration: none;
 }
 
-ul {
-    list-style-type: none;
-}
-
 footer {
     background-color: #000;
     color: #F2FFFC;
     padding: 20px;
+    text-align: center;
+}
+
+strong {
+    font-weight: bold;
+}
+
+em {
+    font-style: italic;
 }
