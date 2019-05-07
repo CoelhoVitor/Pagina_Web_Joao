@@ -1,0 +1,13 @@
+.imagens li {
+  display: inline-block;
+  width: 45%;
+  box-sizing: border-box;
+  border: 8px solid black;
+  padding: 20px;
+  margin-bottom: 15px;
+  margin-right: 15px;
+}
+
+.imagens img {
+  width: 100%;
+}
