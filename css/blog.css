@@ -1,0 +1,15 @@
+article {
+  padding-bottom: 30px;
+  border-bottom: 1.5px solid #c2ccca;
+  margin-bottom: 30px;
+}
+
+.leia-mais {
+  font-family: "Opens Sans Condensed", sans-serif;
+  padding: 5px;
+  display: block;
+  margin-bottom: 10px;
+  font-size: 20px;
+  text-align: center;
+  background-color: #e6e7e8;
+}
